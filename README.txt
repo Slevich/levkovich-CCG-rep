@@ -1,0 +1,1 @@
+This repository contains a Unity project with 3D collectible card game mechanics.
